@@ -41,6 +41,9 @@ dirb http://target.com
     Purple = collaboration between both
   DNS lookups using dig vs nslookup
   Basic web scanning with dirb for directory enumeration
+
+
+  
 🧪 Hands-On Summary
   Used TryHackMe’s AttackBox to simulate real-world scanning.
   Practiced querying DNS servers and web directories.
