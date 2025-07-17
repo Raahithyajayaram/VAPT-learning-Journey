@@ -1,8 +1,5 @@
 # 🧠 TryHackMe: Network Fundamentals
 
-**Date:** July 3, 2025  
-**Status:** ✅ Completed
-
 ---
 
 ## 📌 Topics Covered
