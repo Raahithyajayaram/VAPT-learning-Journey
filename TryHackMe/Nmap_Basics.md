@@ -126,7 +126,4 @@ locate *.nse | grep <keyword>
 
 ---
 
-```
 
-Let me know when you want the next room's markdown (e.g., vulnerability scanning, metasploit, etc.), or if you need a homepage `README.md` that links all your rooms like a portfolio!
-```
